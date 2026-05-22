@@ -2,7 +2,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/c7r7/c7r7/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/c7r7/c7r7/snake-output/github-contribution-grid-snake.svg" height="150" alt="stats graph"  />
+  <!-- src="https://raw.githubusercontent.com/c7r7/c7r7/snake-output/github-contribution-grid-snake.svg" -->
   <img src="https://raw.githubusercontent.com/c7r7/c7r7/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
