@@ -2,7 +2,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/c7r7/c7r7/stats-output/stats.svg" height="150" alt="GitHub stats" />
+  <!-- <img src="https://raw.githubusercontent.com/c7r7/c7r7/stats-output/stats.svg" height="150" alt="GitHub stats" /> -->
   <img src="https://raw.githubusercontent.com/c7r7/c7r7/languages-output/languages.svg" height="150" alt="Top languages" />
 </div>
 
