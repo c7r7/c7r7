@@ -1,4 +1,4 @@
-<h2 align="left">👋 I'm Charan Somalaraju — ML Engineer | Gen AI Engineer | Data Scientist | Software Engineer, crafting scalable AI-powered solutions from New York 🗽</h2>
+<h2 align="left">👋 I'm Charan Somalaraju - ML Engineer | Gen AI Engineer | Data Scientist | Software Engineer, crafting scalable AI-powered solutions from New York 🗽</h2>
 ###
 
 <div align="center">
