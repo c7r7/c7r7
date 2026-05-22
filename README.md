@@ -2,9 +2,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/c7r7/c7r7/snake-output/github-contribution-grid-snake.svg" height="150" alt="stats graph"  />
-  <!-- src="https://raw.githubusercontent.com/c7r7/c7r7/snake-output/github-contribution-grid-snake.svg" -->
-  <img src="https://raw.githubusercontent.com/c7r7/c7r7/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/c7r7/c7r7/stats-output/stats.svg" height="150" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/c7r7/c7r7/languages-output/languages.svg" height="150" alt="Top languages" />
 </div>
 
 <p align="left">Programming Languages</p>
@@ -126,7 +125,7 @@
 
 
 <div align="left">
-  <a href="charansomalaraju1@gmail.com" target="_blank">
+  <a href="mailto:charansomalaraju1@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/charan-somalraju-72b868206/" target="_blank">
@@ -138,17 +137,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/c7r7/c7r7/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/c7r7/c7r7/snake-output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/c7r7/c7r7/snake-output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/c7r7/c7r7/snake-output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+</picture>
 
 ###
-Surfshark detected a data breach on this website
-On June 20, 2024, a database related to the Amazonaws.com website was found circulating the web. Over 511 thousand email addresses were exposed, together with credential data. Leaked records include password and password hash. The validity of the data exposed couldn’t be verified. Yet we’re still informing you about a potential data leak – but keep in mind there’s a chance of it being a false positive.
-Detected
-1 year ago
-Data records leaked
-511K
-Leaked data
-Email
-Password
-Hashed password
-This website has been breached or has leaked its users’ data
